@@ -1,2 +1,3 @@
 theme: jekyll-theme-midnight
 title: English Premier League Predictions
+description: Using a Random Forest Classifier to Predict Soccer Outcomes
