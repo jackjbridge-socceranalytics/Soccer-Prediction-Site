@@ -5,7 +5,7 @@ from sklearn.metrics import f1_score
 from sklearn.model_selection import train_test_split
 
 # Load in training set - stats from last season
-shoot_stats = pd.read_csv('/Users/richardbridge/Downloads/Shooting Stats.csv')
+shoot_stats = pd.read_csv('Shooting Stats.csv')
 shoot_stats
 
 # Set up ID map, to match team names to numbers, so we can use in the model
@@ -51,7 +51,7 @@ rfc_pred_train = rfc.predict(train_X)
 print('Training Set Evaluation F1-Score=>',f1_score(train_y,rfc_pred_train,average='micro'))
 
 # Load in the statistics for the games currently played this season
-test_set = pd.read_csv('/Users/richardbridge/Downloads/Premier2021.csv')
+test_set = pd.read_csv('Premier2021.csv')
 Team_ID_Map = {1: 'Arsenal', 2: 'Aston Villa', 3: 'Brighton', 4:'Burnley', 5: 'Chelsea', 6: 'Crystal Palace', 7:'Everton', 8: 'Fulham', 9: 'Leeds', 10: 'Leicester',
               11: 'Liverpool', 12: 'Man City', 13: 'Man Utd', 14: 'Newcastle', 15: 'Sheffield United', 16: 'Southampton', 17: 'Tottenham', 18: 'West Brom',
               19: 'West Ham', 20: 'Wolves', 21: 'AFC Bournemouth ', 22: 'Norwich City', 23: 'Watford FC ', 24: 'Cardiff City', 25: 'Huddersfield Town AFC ', 26: 'Stoke City FC ', 27: 'Swansea City AFC ',
