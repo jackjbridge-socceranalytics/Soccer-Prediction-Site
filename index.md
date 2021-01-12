@@ -1,35 +1,23 @@
-## Overall Record (Up to date 12/29/2020):
-0-0
+## Overall Record (Up to date 01/12/2021):
+5-4
 
 ## Predictions for Upcoming Games:
 
-**Friday 1 January 2021**
+**Tuesday 12 January 2021**
 
-Everton vs. West Ham United - Result: Draw
+Sheffield United vs. Newcastle United	- Draw
 
-Manchester United vs. Aston Villa - Result: Manchester United Win
+Burnley	vs. Manchester United - Manchester United Win
 
-
-**Saturday 2 January 2021**
-
-Tottenham vs. Leeds United - Result: Draw
-
-Crystal Palace vs. Sheffield United - Result: Draw
-
-Brighton vs. Wolves - Result: Draw
-
-West Brom vs. Arsenal - Result: Arsenal Win
+Wolverhampton Wanderers vs. Everton - Draw
 
 
-**Sunday 3 January 2021**
+**Wednesday 13 January 2021**
 
-Burnley vs. Fulham - Result: Draw
+Manchester City	vs. Brighton & Hove Albion - City Win
 
-Newcastle vs. Leicester - Result: Leicester Win
+Tottenham Hotspur	vs. Fulham - Tottenham Win
 
-Chelsea vs. Manchester City - Result: Manchester City Win
+**Thursday 14 January 2021**
 
-
-**Monday 4 January 2021**
-
-Liverpool vs. Southampton - Result: Liverpool Win
+Arsenal	vs. Crystal Palace - Arsenal Win
